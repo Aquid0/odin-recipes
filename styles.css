@@ -1,0 +1,12 @@
+.title {
+    color: blue; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: pink;
+    font-weight: 900px;
+    font-size: 40px; 
+}
+
+.item {
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+}
